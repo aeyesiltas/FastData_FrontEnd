@@ -1,0 +1,42 @@
+.save-btns {
+    position: absolute !important;
+    right: 0 !important;
+}
+
+.accordion-item {
+    border-radius: 0% !important;
+    border: none !important;
+}
+
+.accordion-header {
+    border-radius: 0% !important;
+    border: none !important;
+}
+
+.accordion-button:focus {
+    border-color: none !important;
+    box-shadow: none !important;
+}
+
+.accordion-body {
+    cursor: pointer;
+}
+
+.sidebar {
+    margin: 1rem 0;
+    color: inherit;
+    border: 0;
+    border-right: var(--bs-border-width) solid rgb(185, 185, 185);
+    opacity: .75;
+    height: 100vh;
+    /* border-radius: 10px; */
+
+}
+
+.icons8-folder {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    background: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjBweCIgeT0iMHB4IiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHZpZXdCb3g9IjAgMCA0OCA0OCI+CjxsaW5lYXJHcmFkaWVudCBpZD0iV1FFZnZvUUFjcFFnUWd5alFRNEhxYV9kSU5ua05iMUZCbDRfZ3IxIiB4MT0iMjQiIHgyPSIyNCIgeTE9IjYuNzA4IiB5Mj0iMTQuOTc3IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+PHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjZWJhNjAwIj48L3N0b3A+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjYzI4MjAwIj48L3N0b3A+PC9saW5lYXJHcmFkaWVudD48cGF0aCBmaWxsPSJ1cmwoI1dRRWZ2b1FBY3BRZ1FneWpRUTRIcWFfZElObmtOYjFGQmw0X2dyMSkiIGQ9Ik0yNC40MTQsMTAuNDE0bC0yLjUzNi0yLjUzNkMyMS4zMTYsNy4zMTYsMjAuNTUzLDcsMTkuNzU3LDdMNSw3QzMuODk1LDcsMyw3Ljg5NSwzLDlsMCwzMAljMCwxLjEwNSwwLjg5NSwyLDIsMmwzOCwwYzEuMTA1LDAsMi0wLjg5NSwyLTJWMTNjMC0xLjEwNS0wLjg5NS0yLTItMmwtMTcuMTcyLDBDMjUuMjk4LDExLDI0Ljc4OSwxMC43ODksMjQuNDE0LDEwLjQxNHoiPjwvcGF0aD48bGluZWFyR3JhZGllbnQgaWQ9IldRRWZ2b1FBY3BRZ1FneWpRUTRIcWJfZElObmtOYjFGQmw0X2dyMiIgeDE9IjI0IiB4Mj0iMjQiIHkxPSIxMC44NTQiIHkyPSI0MC45ODMiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj48c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiNmZmQ4NjkiPjwvc3RvcD48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiNmZWM1MmIiPjwvc3RvcD48L2xpbmVhckdyYWRpZW50PjxwYXRoIGZpbGw9InVybCgjV1FFZnZvUUFjcFFnUWd5alFRNEhxYl9kSU5ua05iMUZCbDRfZ3IyKSIgZD0iTTIxLjU4NiwxNC40MTRsMy4yNjgtMy4yNjhDMjQuOTQ3LDExLjA1MywyNS4wNzQsMTEsMjUuMjA3LDExSDQzYzEuMTA1LDAsMiwwLjg5NSwyLDJ2MjYJYzAsMS4xMDUtMC44OTUsMi0yLDJINWMtMS4xMDUsMC0yLTAuODk1LTItMlYxNS41QzMsMTUuMjI0LDMuMjI0LDE1LDMuNSwxNWgxNi42NzJDMjAuNzAyLDE1LDIxLjIxMSwxNC43ODksMjEuNTg2LDE0LjQxNHoiPjwvcGF0aD4KPC9zdmc+') 50% 50% no-repeat;
+    background-size: 100%;
+}
